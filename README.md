@@ -18,7 +18,7 @@ This project recreates the user interface and design of the official Razorpay ho
 ## 📸 Screenshots
 
 > Homepage  
-![Screenshot](./images/.Screenshot 2025-07-08 150819.png)
+[Screenshot](./images/.Screenshot 2025-07-08 150819.png)
 
 
 ---
